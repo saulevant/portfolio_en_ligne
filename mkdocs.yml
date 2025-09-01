@@ -47,5 +47,12 @@ theme:
   language : fr
 
 nav :
-  - Portfolio : index.md
-  - Page de test : test.md
+  - Accueil : index.md
+  - Compétences : 
+    - Liste des compétences : compétences/compétences.md 
+    - Gestion du patrimoine informatique : compétences/patrimoine-informatique.md
+    - Support et assistance : compétences/support-assistance.md
+    - Développement de la prénsence en ligne d'une organisation : compétences/présence-en-ligne.md
+    - Travail en mode projet : compétences/travail-mode-projet.md
+    - Déploiement d'un service informatique à des utilisateurs : compétences/déploiement-service-info.md
+    - Développement professionnel : compétences/développement-professionel.md
