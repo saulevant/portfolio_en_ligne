@@ -45,10 +45,13 @@ theme:
 
 
   language : fr
+  features : 
+    - navigation.footer
 
 nav :
   - Accueil : index.md
-  - Compétences : 
+  - Profil : profil.md
+  - Compétences :
     - Liste des compétences : compétences/compétences.md 
     - Gestion du patrimoine informatique : compétences/patrimoine-informatique.md
     - Support et assistance : compétences/support-assistance.md
@@ -56,3 +59,13 @@ nav :
     - Travail en mode projet : compétences/travail-mode-projet.md
     - Déploiement d'un service informatique à des utilisateurs : compétences/déploiement-service-info.md
     - Développement professionnel : compétences/développement-professionel.md
+
+extra : 
+  generator : false
+  social : 
+    - icon : fontawesome/solid/paper-plane
+      link: mailto:<arthur.richert.villain@gmail.com>
+    - icon : fontawesome/brands/github
+      link : https://github.com/saulevant
+    - icon : fontawesome/brands/linkedin
+      link : https://fr.linkedin.com/in/arthur-richert-villain-a87312346
