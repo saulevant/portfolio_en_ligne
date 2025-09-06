@@ -5,7 +5,7 @@
 J'ai pour projet de travailler au sein de services hospitaliers, plus particulièrement dans le service informatique, afin de contribuer à la prévention des risques et à la protection contre les cyberattaques. Mon objectif est de participer activement à la sécurisation des systèmes d'information hospitaliers, essentiels au bon fonctionnement des établissements de santé et à la protection des données sensibles des patients.
 
 
-Vous trouverez la liste des compétences et projets réalisé au cours de mes études ainsi que mon CV [ici](/docs/profil.md).
+Vous trouverez la liste des compétences et projets réalisé au cours de mes études ainsi que mon CV [ici](profil.md).
 
 ## **Mes réseaux**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saulevant)
