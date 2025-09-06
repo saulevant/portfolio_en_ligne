@@ -26,7 +26,6 @@ theme:
   name: material
   palette:
 
-    # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7
@@ -34,7 +33,6 @@ theme:
       primary: deep purple
       accent: purple
 
-    # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
@@ -42,17 +40,17 @@ theme:
       primary: deep purple
       accent: purple
 
-
-
   language : fr
-  features : 
+  features :
     - navigation.footer
+
+extra_css : 
+  - css/custom.css
 
 nav :
   - Accueil : index.md
   - Profil : profil.md
   - Compétences :
-    - Liste des compétences : compétences/compétences.md 
     - Gestion du patrimoine informatique : compétences/patrimoine-informatique.md
     - Support et assistance : compétences/support-assistance.md
     - Développement de la prénsence en ligne d'une organisation : compétences/présence-en-ligne.md
@@ -63,9 +61,9 @@ nav :
 extra : 
   generator : false
   social : 
-    - icon : fontawesome/solid/paper-plane
-      link: mailto:<arthur.richert.villain@gmail.com>
-    - icon : fontawesome/brands/github
-      link : https://github.com/saulevant
-    - icon : fontawesome/brands/linkedin
-      link : https://fr.linkedin.com/in/arthur-richert-villain-a87312346
+  - icon : fontawesome/solid/paper-plane
+    link: mailto:<arthur.richert.villain@gmail.com>
+  - icon : fontawesome/brands/github
+    link : https://github.com/saulevant
+  - icon : fontawesome/brands/linkedin
+    link : https://fr.linkedin.com/in/arthur-richert-villain-a87312346

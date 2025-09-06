@@ -1,14 +1,13 @@
 # CV
-Vous trouverez mon CV [ici]().
+Vous trouverez mon CV [ici](assets/CV Arthur.pdf).
 
 # Liste des compétences acquises 
 
-| **Domaine**                          | **Détails**                                                                                     |
-|--------------------------------------|-------------------------------------------------------------------------------------------------|
-| [Gestion du patrimoine informatique](patrimoine-informatique.md)  | Recensement des ressources, gestion des sauvegardes, vérification des droits et conformité.   |
-| [Support et assistance](support-assistance.md)                | Diagnostic et résolution d’incidents, utilisation d’outils de gestion de parc.                 |
-| [Développement de la prénsence en ligne d'une organisation](présence-en-ligne.md)                    | Participation à l’évolution de sites web, référencement, respect des obligations légales.      |
-| [Travail en mode projet](travail-mode-projet.md)               | Planification, analyse des besoins, documentation, communication adaptée.                      |
-| [Déploiement d'un service informatique à des utilisateurs](déploiement-service-info.md)              | Mise en production d'un service pour les utilisateurs.    |
-| [Développement professionnel](développement-professionel.md)          | Veille technologique, gestion de l’identité professionnelle, environnement d’apprentissage.   |
-
+| **TP / Projet** | **Gérer le patrimoine informatique** | **Répondre aux incidents** | **Développer la présence en ligne** | **Travailler en mode projet** | **Mettre à disposition un service** | **Organiser son développement professionnel** |
+|-----------------|--------------------------------------|-----------------------------|--------------------------------------|-------------------------------|-------------------------------------|-----------------------------------------------|
+| [TP Sauvegarde de données](patrimoine-informatique.md)        |<span style="background-color: #4CAF50; color: white; padding: 2px 8px; border-radius: 4px;">Validé</span>                                      |                             |                                      |                               |                                     |                                               |
+| [Campagne d'E-mailing](présence-en-ligne.md)|                                      |                             |                                      |                               |                                     |                                               |
+| [Design Adaptatif](travail-mode-projet.md)        |                                      |                             |                                      |                               |                                     |                                               |
+| [Déploiement d'une documentation](déploiement-service-info.md)         |                                      |                             |                                      |                               |                                     |                                               |
+| [Outils de Ticketing](support-assistance.md)        |                                      |                             |                                      |                               |                                     |                                               |
+| [Environnement d'apprentissage personel](développement-professionel.md)        |                                      |                             |                                      |                               |                                     |                                               |
