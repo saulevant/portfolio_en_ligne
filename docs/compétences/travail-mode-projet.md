@@ -8,4 +8,4 @@ Après analyse, j'ai proposer plusieurs solutions à ce propblème tout en donna
 
 J'en ais conclus qu'il devrait utiliser un framework afin de permettre une gestion plus facile des éléments à redimentionner, bouger et/ou transformer lors du passage d'un ordinateur à un téléphone.
 
-[Vous pouvez lire le rapport complet ici.](/assets/DesignAdaptatif.pdf)
+[Vous pouvez lire le rapport complet ici.](assets/DesignAdaptatif.pdf)
