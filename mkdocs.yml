@@ -51,12 +51,12 @@ nav :
   - Accueil : index.md
   - Profil : profil.md
   - Compétences :
-    - Gestion du patrimoine informatique : compétences/patrimoine-informatique.md
-    - Support et assistance : compétences/support-assistance.md
-    - Développement de la prénsence en ligne d'une organisation : compétences/présence-en-ligne.md
-    - Travail en mode projet : compétences/travail-mode-projet.md
-    - Déploiement d'un service informatique à des utilisateurs : compétences/déploiement-service-info.md
-    - Développement professionnel : compétences/développement-professionel.md
+    - Gestion du patrimoine informatique : competences/patrimoine-informatique.md
+    - Support et assistance : competences/support-assistance.md
+    - Développement de la prénsence en ligne d'une organisation : competences/présence-en-ligne.md
+    - Travail en mode projet : competences/travail-mode-projet.md
+    - Déploiement d'un service informatique à des utilisateurs : competences/déploiement-service-info.md
+    - Développement professionnel : competences/développement-professionel.md
 
 extra : 
   generator : false
