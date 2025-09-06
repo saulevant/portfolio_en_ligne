@@ -1,6 +1,6 @@
 # Portfolio de Arthur Richert--Villain
 
-Étudiant en 2ème année de BTS SIO (option SLAM) aux [Charteux](https://www.leschartreux.com/), je suis passionné par le développement logiciel et l’univers Linux. J’aime concevoir de petites applications, souvent orientées cybersécurité, et expérimenter de nouvelles technologies. Que ce soit pour configurer un serveur Linux ou développer un outil en lien avec la sécurité, je prends plaisir à apprendre en construisant.
+Étudiant en 2ème année de BTS SIO (option SLAM) aux [Charteux](https://www.leschartreux.com/), je suis passionné par le développement logiciel et l’univers Linux. J’aime concevoir de petites applications, souvent orientées vers la cybersécurité, et expérimenter de nouvelles technologies. Que ce soit pour configurer un serveur Linux ou développer un outil en lien avec la sécurité, je prends plaisir à apprendre en construisant.
 
 J'ai pour projet de travailler au sein de services hospitaliers, plus particulièrement dans le service informatique, afin de contribuer à la prévention des risques et à la protection contre les cyberattaques. Mon objectif est de participer activement à la sécurisation des systèmes d'information hospitaliers, essentiels au bon fonctionnement des établissements de santé et à la protection des données sensibles des patients.
 
