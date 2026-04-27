@@ -1,5 +1,5 @@
-# TP sauvegarder un système et ses données
+# TP OCS inventory
 
-J’ai réalisé un TP dans le cadre de la sécurisation des postes informatiques en entreprise. L’objectif était de mettre en place une solution de sauvegarde des données personnelles d’un utilisateur, ainsi qu’une solution de restauration du système en cas de problème. J’ai utilisé le logiciel SyncBack pour automatiser la sauvegarde des fichiers modifiés. Ensuite, j’ai configuré la restauration du système sous Windows pour créer un point de restauration, permettant de revenir à un état stable du système en cas de dysfonctionnement ou d’installation non souhaitée. Ce TP m’a permis de comprendre l’importance des sauvegardes régulières et des outils de restauration dans un environnement professionnel.
+Au cours de ma deuxième année de BTS, j'ai réalisé un travail de groupe autours de la gestions du patrimoine d'une entreprise. Le travail consistait à mettre en place le service OCS Inventory NG sur un serveur et d'installer un agent sur des machines Windows, Linux et MacOS. Sur ces machines était installé un add-on permettant de connaitre la date de mise en route du système. A cela nous avons lié OCS Inventory à GLPI, un système de création et de réponse au tickets.
 
-[Voir le pdf](assets/Sauvegarder_un_système_et_ses_données.pdf)
+[Voir le pdf](assets/TP OCS rendu.pdf)
