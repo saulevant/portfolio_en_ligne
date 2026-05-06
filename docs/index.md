@@ -38,20 +38,6 @@ Je souhaite évoluer dans le domaine informatique hospitalier, avec un focus sur
 
 ---
 
-## Projets / Réalisations
-
-!!! details "Applications développées"
-    - **Application Web Symfony** : gestion des inscriptions aux formations
-    - **Scripts Bash** pour automatiser des tâches Linux
-    - **Petits outils cybersécurité** pour le suivi et l’analyse du réseau
-
-!!! details "Documents et supports"
-    - [CV PDF](assets/CV\ Arthur.pdf)
-    - [Design Adaptatif](competences/assets/DesignAdaptatif.pdf)
-    - [Outil de gestion de ticket](competences/assets/Outil\ de\ gestion\ de\ ticket.pdf)
-
----
-
 ## Réseaux et contact
 
 - [GitHub](https://github.com/saulevant) — code et projets
