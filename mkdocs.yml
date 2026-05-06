@@ -13,13 +13,11 @@ markdown_extensions:
       custom_checkbox: true
   - footnotes
   - pymdownx.critic
+  - pymdownx.tabbed
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
 
 
 theme:
@@ -30,19 +28,26 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-      primary: deep purple
-      accent: purple
+      primary: indigo
+      accent: cyan
 
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: deep purple
-      accent: purple
+      primary: indigo
+      accent: cyan
 
   language : fr
   features :
     - navigation.footer
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+    - content.tabs.link
 
 extra_css : 
   - css/custom.css
