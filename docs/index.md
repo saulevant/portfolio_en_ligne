@@ -1,4 +1,4 @@
-# Arthur Richert-Villain
+# Arthur Richert--Villain
 
 ## Étudiant BTS SIO (SLAM)
 
